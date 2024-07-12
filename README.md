@@ -20,7 +20,7 @@
   
   <!-- Header -->
   ### 🙌 Introduction
-  안녕하세유? 다재다능한 풀스택 개발자 임은상이에유.
+  안녕하세유?
 
   <br>
   <br>
@@ -62,6 +62,8 @@
 
   <br>
   <br>
+  <br>
+  <br>
   
   <!-- 자격증 -->
   ### 🪵 자격증
@@ -70,6 +72,12 @@
 
   <br>
   <br>
+  <br>
+  <br>
+
+  <!-- Experience -->
+  ### 🔥 Experience
+  ● 2024. 01 ~ 2024. 07. 12 디지털 하나로 K-Digital Training
   
   <!-- Footer -->
   <img src="https://capsule-render.vercel.app/api?type=slice&color=e6edf3&section=footer" />
