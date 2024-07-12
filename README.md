@@ -77,7 +77,11 @@
 
   <!-- Experience -->
   ### 🔥 Experience
-  ● 2024. 01 ~ 2024. 07. 12 디지털 하나로 K-Digital Training
+  ● 2024. 01 ~ 2024. 07. 12 하나금융 Digital Hana 路 교육
+
+  <!-- Project -->
+  ### ⭐️ Project
+  ● 
   
   <!-- Footer -->
   <img src="https://capsule-render.vercel.app/api?type=slice&color=e6edf3&section=footer" />
