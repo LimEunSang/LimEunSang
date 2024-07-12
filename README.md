@@ -79,6 +79,11 @@
   ### 🔥 Experience
   ● 2024. 01 ~ 2024. 07. 12 하나금융 Digital Hana 路 교육
 
+  <br>
+  <br>
+  <br>
+  <br>
+
   <!-- Project -->
   ### ⭐️ Project
   ● 
